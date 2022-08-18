@@ -1,15 +1,15 @@
 {
-"ownerNumber": ["6283824035969@s.whatsapp.net","6285162963989@s.whatsapp.net"],
-"ownerName": ["PUTRA"],
-"botName": "Putra-Botz",
-"packname": "Putra-Botz",
-"author": "© putrabot",
+"ownerNumber": ["6285162963989@s.whatsapp.net"],
+"ownerName": ["YASEN"],
+"botName": "Yasen-Botz",
+"packname": "Yasen-Botz",
+"author": "© yasenbot",
 "sessionName": "session",
 "pathimg": "./media/hinata.jpg",
 
 "medsos": {
 "youtube": "not",
-"instagram": "https://instagram.com/putra_satya28"
+"instagram": "not"
 },
 
 "donasi": {
